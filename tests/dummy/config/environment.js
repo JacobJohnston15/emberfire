@@ -6,7 +6,7 @@ module.exports = function(environment) {
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
-    firebase: 'https://emberfire-demo.firebaseio.com',
+    firebase: 'https://dazzling-heat-5064.firebaseapp.com',
     torii: {
       sessionServiceName: 'session'
     },
